@@ -37,3 +37,32 @@ In 1792, the first textile mill was created in the Black Stone Valley, starting 
 
 
 Based on this Hypothesis and the evidence gathered, we conclude the ethical issues that may arise are economical. If we are to limit Industrial Manufacturers near the coast, it can be argued that the ethical ramifications will be economical - limiting blue-collar workers in particular who hold these labor positions. According to research done following layoffs in 2011, positions were replaced rather than eliminated. In other words, those who lost jobs were put into an equivalent position within the realms of environmental control practically at a 1 to 1 rate. While there was no significant gain in transitioning to a pro-environment method, there was also no job loss to speak of. This is why, when it comes to potential job loss for existing workers in the industrial manufacturing industry a policy will be past that equivalent positions will be created in the environmental section at a rate of 1 job added for every 1 job loss, those who lose their positions from these changes shall have 1st choice in equivalent positions that are created from this policy. In positives that are not job related though, we can compare previous policies that have already been utilized, for example in 2011 the EPA finalized a rule that curbed Upwind sources from impairing air in downwind states.  Based on research Jobs_and_Regulation_Factsheet.pdf (policyintegrity.org) EPA found this rule could save between 120 and 280 billion dollars in net benefits, including prevention of up to 34,000 premature human deaths a year. In short, while the control may not show an immediate change for the unemployment rate, it is undeniable that this change will be better for well-being for both humans and turtles alike. 
+
+
+
+Qualitative Data Analysis will be looked at based on the health, good will, and positive environmental impact of our research. 
+•	If we take the numbers from a bill passed by the Environmental Protection Agency in 2011, reversing Climate change could save almost 50,000 more human lives, but also the quality of our public waters and land animals. 
+•	Quantitative Analysis that will be included is data on injured turtles once climate change is reversed, how much money will go back into the economy when there is less clean up and health risk, and data on the decrease of industrial waste.
+•	Independent variable Turtle, Dependent variable is the Ocean, as we have no control over how the & the ocean reacts, we can only observe and hypothesize that based on such correlations as warmer waters leading to more injured turtles, that less waste= more turtles.
+•	We will take data that was given to us from the turtle sanctuary in Quincy Mass that says in 2011 compared to data from 2022 where the injured turtles increased 12-fold from cold stunning due to climate change, that all industrial manufacturing plants leaving coast lines will reverse damage that has been caused, we will do natural observations and believe that this can be done with positive results.
+
+
+Works Cited :
+
+Griffin, L. P., Griffin, C. R., Finn, J. T., Prescott, R. L., Faherty, M., Still, B. M., & Danylchuk, A. J. (2019). Warming seas increase cold-stunning events for Kemp’s ridley sea turtles in the northwest Atlantic. PLOS ONE, 14(1), e0211503. 
+https://doi.org/10.1371/journal.pone.0211503
+Information About Sea Turtles: An Introduction – Sea Turtle Conservancy. (2019). Conserveturtles.org. https://conserveturtles.org/information-about-sea-turtles-an-introduction/
+Information about sea turtles: Green Sea Turtle. Sea Turtle Conservancy. (n.d.). https://conserveturtles.org/information-sea-turtles-green-sea-turtle/ 
+Kobilinsky, D. (2019, February 19). Why are so many sea turtles being stranded in Cape Cod? The Wildlife Society. https://wildlife.org/why-are-so-many-sea-turtles-being-stranded-in-cape-cod/
+Poppick, L. (2018, November 12). Why Is the Gulf of Maine Warming Faster Than 99% of the Ocean? Eos. https://eos.org/features/why-is-the-gulf-of-maine-warming-faster-than-99-of-the-https://eos.org/features/why-is-the-gulf-of-maine-warming-faster-than-99-of-the-ocean
+Sea Turtles on Cape Cod. (2023). Mass Audubon. https://www.massaudubon.org/get-outdoors/wildlife-sanctuaries/wellfleet-bay/about/our-conservation-work/sea-turtles
+
+Bjorndal, K. A., Bolten, A. B., Dellinger, T., Delgado, C., & Martins, H. R. (2003, May 1). Compensatory growth in oceanic loggerhead sea ... - wiley online library. https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658%282003%29084%5B1237%3ACGIOLS%5D2.0.CO%3B2 
+Miller, K. (2022, July 18). What turtles can teach humans about the science of slow aging. Wired. https://www.wired.com/story/what-turtles-can-teach-humans-about-the-science-of-slow-aging/ 
+Goatley, C. H. R., Hoey, A. S., & Bellwood, D. R. (2012, June 29). The role of turtles as Coral Reef macroherbivores. PLOS ONE. https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0039979 
+Bouchard, S. S., & Bjorndal, K. A. (2000, August 1). SEA TURTLES AS BIOLOGICAL TRANSPORTERS OF NUTRIENTS AND ENERGY FROM MARINE TO TERRESTRIAL ECOSYSTEMS. https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658%282000%29081%5B2305%3ASTABTO%5D2.0.CO%3B2?casa_token=_q0sqOm_pt8AAAAA%3AWl5bKuxMIpWsuPkuhn20OV8NmKc2WmeHihxwmwj0eiR6xDi-vp-I5hfOKJ4nQfT
+Hannan, L. B., Roth, J. D., Ehrhart, L. M., & Weishample, J. F. (2007). DUNE VEGETATION FERTILIZATION BY NESTING SEA TURTLES. Sciences.ucf.edu. https://sciences.ucf.edu/biology/games/wp-content/uploads/sites/13/2012/09/Ecology07.pdf 
+Information About Sea Turtles: An Introduction – Sea Turtle Conservancy. (2019). Conserveturtles.org. https://conserveturtles.org/information-about-sea-turtles-an-introduction/ 
+
+PLoS. (2019, April 25). Immense Pacific Coral Reef Survey Shows Green Sea Turtle Populations Increasing. ECO Magazine. https://www.ecomagazine.com/news/coasts/immense-pacific-coral-reef-survey-shows-green-sea-turtle-populations-increasing
+“What’s Love Got to Do with Green Sea Turtles and Fish?” Pewtrusts.org, 9 Feb. 2016, www.pewtrusts.org/en/research-and-analysis/articles/2016/02/09/msa-40-whats-love-got-to-do-with-green-sea-turtles-and-fish.

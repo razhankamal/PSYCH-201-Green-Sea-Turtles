@@ -7,6 +7,8 @@ Keneisha Newton keneisha.newton001@umb.edu -
 Linda Aualom linda.aualom001@umb.edu
 
 Green Sea Turtle (Chelonia mydas)
+
+
 	Our group project consists of researching the Green Sea Turtles whose scientific name is Chelonia myda, an endangered species. Green Sea turtles are the world’s largest species of hard-shelled sea turtle of the Cheloniidae family. The green sea turtle is the only herbivore among different species and the largest found was 5 ft and 871 lbs. The Green Sea Turtle body is oval shaped, their head is small and blunt, no teeth jaws serrated which is suited for their diet. Their shells consist of single pair prefrontal scales in front of their eyes rather than two pairs as found on other sea turtles, carapace is color pale to dark green, and yellow, bony without ridges, and has large non-overlapping, hard scales also called scutes with only four lateral scuted. The average size is 3-4 ft, 240-420 lbs. They have ecdodermic body temperatures regulated by the temperature of the water around them, and the number of arrangements of these scutes can determine their species. The Green Sea Turtles can breathe air, have the ability under natural conditions to remain submerged for hours at a time. They spend most of their life at sea, returning to warm climate beaches with seagrass beds near coastline to nest in two year intervals, and lay an average 115 eggs in each nest, nesting 3-5 times per season. There is an alarming decline in their populations by cold-stunning climate changes.
 	
 	

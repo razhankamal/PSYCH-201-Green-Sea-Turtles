@@ -66,3 +66,5 @@ Poppick, L. (2018). Why Is the Gulf of Maine Warming Faster Than 99% of the Ocea
 Sea Turtles on Cape Cod. (2023). Mass Audubon. https://www.massaudubon.org/get-outdoors/wildlife-sanctuaries/wellfleetbay/about/our-conservation-work/sea-turtles
 
 The Industrial Revolution - The Big Story. (n.d.). Blackstone River Valley National Heritage Corridor. https://blackstoneheritagecorridor.org/learning/history-of-the-valley/the-industrial-revolution-the-big-story/
+
+Goatley, C. H. R., Hoey, A. S., & Bellwood, D. R. (2012). The role of turtles as Coral Reef macroherbivores. PLOS ONE. https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0039979

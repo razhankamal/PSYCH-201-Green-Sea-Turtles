@@ -1,0 +1,36 @@
+all_joints:
+- - 0
+- - 1
+- - 2
+- - 3
+- - 4
+- - 5
+- - 6
+- - 7
+- - 8
+- - 9
+- - 10
+- - 11
+- - 12
+all_joints_names:
+- Tail
+- Right Eye
+- Left Eye
+- Nostrils
+- Beak
+- Head
+- Right Flipper
+- Left Flipper
+- Right Hind Flipper
+- Left Hind Flipper
+- Scute
+- Shell
+- Neck
+dataset: training-datasets/iteration-0/UnaugmentedDataSet_GreenSeaTurtleApr23/GreenSeaTurtle_Razhan95shuffle1.mat
+global_scale: 0.8
+init_weights: /usr/local/lib/python3.10/dist-packages/deeplabcut/pose_estimation_tensorflow/models/pretrained/resnet_v1_50.ckpt
+location_refinement: true
+locref_stdev: 7.2801
+net_type: resnet_50
+num_joints: 13
+scoremap_dir: test

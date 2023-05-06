@@ -1,0 +1,118 @@
+    # Project definitions (do not edit)
+Task: GreenSeaTurtle
+scorer: Razhan
+date: Apr23
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: /content/drive/My Drive/GreenSeaTurtle-Razhan-2023-04-23
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle13.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle12.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle10.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle11.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle15.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle14.MOV:
+    crop: 0, 720, 0, 960
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle16.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle17.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle1.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle2.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle3.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle7.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle6.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle4.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle5.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle8.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle9.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle25.MOV:
+    crop: 0, 720, 0, 1280
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle19.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle18.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle24.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle20.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle21.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle23.MOV:
+    crop: 0, 1920, 0, 1080
+  /Users/razhankamal/Desktop/Green Sea Turtle/turtle22.MOV:
+    crop: 0, 1920, 0, 1080
+bodyparts:
+- Tail
+- Right Eye
+- Left Eye
+- Nostrils
+- Beak
+- Head
+- Right Flipper
+- Left Flipper
+- Right Hind Flipper
+- Left Hind Flipper
+- Scute
+- Shell
+- Neck
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
+skeleton_color: black
+pcutoff: 0.3
+dotsize: 12
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
